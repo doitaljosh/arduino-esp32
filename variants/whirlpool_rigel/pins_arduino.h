@@ -36,6 +36,13 @@ static const uint8_t I2S_DAT	= 2;	// Audio amp data
 static const uint8_t I2S_BCLK	= 0;	// Audio amp clock
 static const uint8_t I2S_LRCK	= 4;	// Audio amp frame select
 
+// SPI
+
+static const uint8_t SS    = 5;
+static const uint8_t MOSI  = 23;
+static const uint8_t MISO  = 19;
+static const uint8_t SCK   = 18;
+
 // ILI9341 display panel (VSPI)
 
 static const uint8_t DISP_SS    = 5;	// SPI slave select
