@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "maintainer": "Josh Currier",
+      "websiteURL": "https://github.com/doitaljosh/arduino-esp32",
+      "email": "doitaljosh@gmail.com",
       "help": {
         "online": "http://esp32.com"
       },
