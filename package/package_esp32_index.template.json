@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "esp32",
+      "name": "esp32-rigel",
       "maintainer": "Josh Currier",
       "websiteURL": "https://github.com/doitaljosh/arduino-esp32",
       "email": "doitaljosh@gmail.com",
